@@ -1,1 +1,1 @@
-print working directory
+list all
